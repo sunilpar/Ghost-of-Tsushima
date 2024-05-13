@@ -1,0 +1,92 @@
+body{
+    background: #524C42;
+    
+}
+/* .container{
+    display: flex;
+    justify-content: center;
+} */
+.header{
+    display: flex;
+    justify-content:space-evenly;
+    flex: 1;
+    gap: 20px;
+}
+
+.got img{
+    height: 159px;
+    width: 563px;
+}
+.steam{
+    display: flex;
+    align-items: center;
+    flex: 0 0 33.3333%;
+}
+.steam img{
+    padding-left: 100px;
+    height: 75px;
+    width: 242px;
+}
+.ps5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ps5 img{
+    height: 75px;
+    width: 242px;
+}
+
+.h_text{
+    font-family:Poetsen One ;
+    font-size: 62px;
+    margin: 75px;
+    margin-bottom: 75px;
+    margin-bottom: 0px;
+    
+    
+}
+.lowheader{
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+.jin img{
+    height: 586px;
+    width: 650px;
+}
+p{
+    font-family: Poetsen One;
+    font-size: 25px;
+    margin: 75px;
+    margin-top: 75px;
+    margin-top: 0px;
+   
+}
+.lowheader .hero{
+    color: #E2DFD0;
+}
+
+.uppermid{
+    padding-top: 30px;
+    padding-left: 200px;
+    padding-right: 200px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background: #E2DFD0;
+}
+
+.fun1{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 40px;
+}
+.fun1 div img{
+    margin-left: 70px;
+}
+.fun1 div p{
+    padding-right: 100px;
+    
+}
